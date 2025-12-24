@@ -1,0 +1,13 @@
+{
+  "buildCommand": "echo 'Static site'",
+  "outputDirectory": ".",
+  "env": {
+    "VERCEL_ANALYTICS_ID": "@vercelAnalyticsId"
+  },
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    }
+  ]
+}

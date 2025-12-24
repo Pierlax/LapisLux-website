@@ -1,0 +1,20 @@
+{
+  "name": "lapislux-website",
+  "version": "1.0.0",
+  "description": "LAPISLUX - Luxury stone panels for superyachts. Ultra-lightweight exotic stone panels.",
+  "scripts": {
+    "dev": "npx http-server",
+    "build": "echo 'Static site - no build required'",
+    "start": "npx http-server"
+  },
+  "keywords": [
+    "luxury",
+    "stone",
+    "superyacht",
+    "onyx",
+    "lapis-lazuli",
+    "yacht-design"
+  ],
+  "author": "LAPISLUX",
+  "license": "MIT"
+}
