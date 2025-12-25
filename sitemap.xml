@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.lapislux.it/</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Images on homepage -->
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/backlit_onyx_bedroom.jpg</image:loc>
+      <image:title>Backlit Onyx Interior - LAPISLUX</image:title>
+      <image:caption>Luxury backlit onyx panel installation in yacht bedroom</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/yacht_interior_stone.jpg</image:loc>
+      <image:title>Yacht Interior with Stone Panels</image:title>
+      <image:caption>Luxury yacht interior featuring LAPISLUX stone panels</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/pink_onyx_backlit.jpg</image:loc>
+      <image:title>Helmand Pink Onyx - Backlit</image:title>
+      <image:caption>Afghan Pink Onyx with dramatic veining for backlit applications</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/green_onyx_slab.jpg</image:loc>
+      <image:title>Helmand Green Onyx Slab</image:title>
+      <image:caption>Deep emerald Green Onyx with golden veins</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/lapis_lazuli_slab.jpg</image:loc>
+      <image:title>Royal Lapis Lazuli</image:title>
+      <image:caption>Premium Lapis Lazuli from Badakhshan, Afghanistan</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/pink_onyx_texture.jpg</image:loc>
+      <image:title>Pink Onyx Natural Texture</image:title>
+      <image:caption>Natural daylight appearance of Pink Onyx</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/backlit_onyx_bar.jpg</image:loc>
+      <image:title>Backlit Onyx Bar Installation</image:title>
+      <image:caption>LED backlit onyx transformation in yacht bar</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/yacht_bathroom.jpg</image:loc>
+      <image:title>Yacht Bathroom with Onyx</image:title>
+      <image:caption>Master bathroom renovation with Helmand Pink onyx</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://www.lapislux.it/images/backlit_onyx_bathroom.jpg</image:loc>
+      <image:title>Backlit Onyx Bathroom</image:title>
+      <image:caption>Backlit Green Onyx feature wall in yacht bathroom</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Section anchors as separate URLs for better indexing -->
+  <url>
+    <loc>https://www.lapislux.it/#about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lapislux.it/#collection</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lapislux.it/#process</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lapislux.it/#projects</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lapislux.it/#specs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lapislux.it/#contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>

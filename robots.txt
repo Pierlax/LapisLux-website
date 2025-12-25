@@ -1,0 +1,11 @@
+# robots.txt for LAPISLUX - www.lapislux.it
+# Last updated: December 2024
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.lapislux.it/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
